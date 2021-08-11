@@ -5,6 +5,10 @@
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=nqn4iwin&show_icons=true)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=iworkist&show_icons=true&theme=dark)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-ohkyu&show_icons=true&theme=cobalt)
+![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=khpark&show_icons=true&theme=dark)
+![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=ehong&show_icons=true&theme=dark)
+![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=hhongjoon&show_icons=true&theme=dark)
+![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren0914&show_icons=true&theme=cobalt)
 
 <a href="https://github.com/nqn4iwin/nqn4iwin/edit/main/README.md">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/>

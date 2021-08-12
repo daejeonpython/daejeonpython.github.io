@@ -4,7 +4,7 @@
 
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=nqn4iwin&show_icons=true)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=iworkist&show_icons=true&theme=dark)
-![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-ohkyu&show_icons=true&theme=cobalt)
+![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=vet-Q&show_icons=true&theme=cobalt)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=khpark&show_icons=true&theme=dark)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=ehong&show_icons=true&theme=dark)
 ![Meerkats' GitHub stats](https://github-readme-stats.vercel.app/api?username=hhongjoon&show_icons=true&theme=dark)
